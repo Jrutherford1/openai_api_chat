@@ -1,0 +1,10 @@
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS-specific files
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
+*.swp # Vim swap files
