@@ -8,3 +8,6 @@
 .DS_Store # macOS specific
 Thumbs.db # Windows specific
 *.swp # Vim swap files
+
+.env
+chats.json
